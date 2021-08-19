@@ -11,15 +11,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio-ananthan.com" width="22px" src="https://yt3.ggpht.com/ytc/AKedOLQJdy3qZkOyik7EV9l1oi9x5QeyDk9Jd6YryCqnVA=s900-c-k-c0x00ffffff-no-rj" />][website]
+[<img align="left" alt="portfolio-ananthan.com" width="25px" src="https://yt3.ggpht.com/ytc/AKedOLQJdy3qZkOyik7EV9l1oi9x5QeyDk9Jd6YryCqnVA=s900-c-k-c0x00ffffff-no-rj" />][website]
 
-[<img align="left" alt="ananthan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ananthan | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="ananthan | hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />][hackerrank]
+[<img align="left" alt="ananthan | hackerrank" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />][hackerrank]
 
-[<img align="left" alt="ananthan | leetcode" width="22px" src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u.jpg" />][leetcode]
+[<img align="left" alt="ananthan | leetcode" width="25px" src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u.jpg" />][leetcode]
 
-[<img align="left" alt="ananthan | kaggle" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
+[<img align="left" alt="ananthan | kaggle" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
 
 <br />
 
