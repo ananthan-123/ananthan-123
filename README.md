@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio-ananthan.com"  src="https://yt3.ggpht.com/ytc/AKedOLQJdy3qZkOyik7EV9l1oi9x5QeyDk9Jd6YryCqnVA=s900-c-k-c0x00ffffff-no-rj" />][website]
+[<img align="left" alt="portfolio-ananthan.com" src="" />][website]
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthakrishnan-a-s-2a69a3190/)
 
@@ -58,10 +58,14 @@
 
 
 <br />
-https://github-readme-stats.vercel.app/api?username={ananthan-123}
+[<img align="left" alt="pandas"  src="https://github-readme-stats.vercel.app/api?username={ananthan-123}" />]
 
 <br />
-https://github-readme-stats.vercel.app/api/top-langs/?username={ananthan-123}
+
+[<img align="left" alt="pandas"  src="https://github-readme-stats.vercel.app/api/top-langs/?username={ananthan-123}" />]
+
+
+
 
 ---
 
