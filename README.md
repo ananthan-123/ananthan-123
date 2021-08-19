@@ -1,7 +1,6 @@
 ## Hi there, I'm [Ananthakrishnan][website] 👋
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-ananthan.herokuapp.com)](https://portfolio-ananthan.herokuapp.com)
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthakrishnan-a-s-2a69a3190/)
 
 ### I'm doing undergraduation in computer science !!
 
@@ -11,7 +10,6 @@
 
 ### Connect with me:
 
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-ananthan.herokuapp.com)](https://portfolio-ananthan.herokuapp.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthakrishnan-a-s-2a69a3190/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ananthan123)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ananthanananthan/)
