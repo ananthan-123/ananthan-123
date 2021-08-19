@@ -15,7 +15,7 @@
 
 [<img align="left" alt="ananthan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="ananthan | hackerrank" width="22px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qp9lxuMs--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rk4gt0qay4owv4j1cypo.png" />][hackerrank]
+[<img align="left" alt="ananthan | hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />][hackerrank]
 
 [<img align="left" alt="ananthan | leetcode" width="22px" src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u.jpg" />][leetcode]
 
