@@ -19,19 +19,19 @@
 
 [<img align="left" alt="ananthan | leetcode" width="30px" src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u.jpg" />][leetcode]
 
-[<img align="left" alt="ananthan | kaggle" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
+[<img align="left" alt="ananthan | kaggle" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Kaggle" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
 
-[<img align="left" alt="Machine learning" width="50px" src="https://img.flaticon.com/icons/png/512/2103/2103626.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />][website]
 
-[<img align="left" alt="python" width="50px" src="https://banner2.cleanpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" />][website]
+[<img align="left" alt="Machine learning" width="30px" height="50" src="https://img.flaticon.com/icons/png/512/2103/2103626.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />][website]
 
-[<img align="left" alt="Django" width="50px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" />][website]
+[<img align="left" alt="python" width="30px" height="50" src="https://banner2.cleanpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" />][website]
+
+[<img align="left" alt="Django" width="30px" height="50" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" />][website]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 
@@ -42,6 +42,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
+
+[<img align="left" alt="Kaggle" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
 
 <br />
 <br />
