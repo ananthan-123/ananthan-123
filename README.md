@@ -21,8 +21,6 @@
 ### Languages and Tools:
 
 
-
-[![machine](https://img.shields.io/website?label=Machine+Learning&style=for-the-badge)](https://portfolio-ananthan.herokuapp.com)
 [<img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />][website]
 [<img align="left" alt="Django"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />][website]
 [<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />][website]
@@ -38,10 +36,11 @@
 [<img align="left" alt="pandas"  src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />][website]
 
 
-[<img align="left" alt="pandas"  src="https://github-readme-stats.vercel.app/api?username={ananthan-123}" />]
+[<img align="left" alt="pandas"  src="[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ananthan-123&show_icons=true)](https://github.com/ananthan-123/)
+" />]
 
 
-[<img align="left" alt="pandas"  src="https://github-readme-stats.vercel.app/api/top-langs/?username={ananthan-123}" />]
+<!-- [<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username={ananthan-123}" />] -->
 
 
 
