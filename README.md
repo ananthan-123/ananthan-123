@@ -35,18 +35,6 @@
 [<img align="left" alt="numpy"  src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />][website]
 [<img align="left" alt="pandas"  src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />][website]
 
-
-<!-- [<img align="left" alt="pandas"  src="[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ananthan-123&show_icons=true)](https://github.com/ananthan-123/)
-" />] -->
-
-
-<!-- [<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username={ananthan-123}" />] -->
-
-
-
-
----
-
 [website]: https://portfolio-ananthan.herokuapp.com
 [linkedin]: https://www.linkedin.com/in/ananthakrishnan-a-s-2a69a3190/
 [hackerrank]: https://www.hackerrank.com/ananthan123
