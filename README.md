@@ -1,6 +1,6 @@
 ### Hi there, I'm Ananthakrishnan [portfolio][website] 👋
 
-[![Website](https://img.shields.io/website?label=portfolio-ananthan.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fportfolio-ananthan.herokuapp.com)](https://portfolio-ananthan.herokuapp.com)
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-ananthan.herokuapp.com)](https://portfolio-ananthan.herokuapp.com)
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthakrishnan-a-s-2a69a3190/)
 
 ## I'm doing undergraduation in computer science !!
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio-ananthan.com" src="" />][website]
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-ananthan.herokuapp.com)](https://portfolio-ananthan.herokuapp.com)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthakrishnan-a-s-2a69a3190/)
 
@@ -28,7 +28,7 @@
 
 
 
-[<img align="left" alt="Machine learning" src="" />][website]
+[![Website](https://img.shields.io/website?label=Machine+Learning&style=for-the-badge&url=https%3A%2F%2Fportfolio-ananthan.herokuapp.com)](https://portfolio-ananthan.herokuapp.com)
 
 [<img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />][website]
 
@@ -36,7 +36,7 @@
 
 [<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />][website]
 
-[<img align="left" alt="SQL"  src="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />][website]
+[<img align="left" alt="SQL"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />][website]
 
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 
