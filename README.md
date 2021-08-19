@@ -31,7 +31,7 @@
 
 [<img align="left" alt="python" width="30px" src="https://banner2.cleanpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" />][website]
 
-[<img align="left" alt="Django" width="30px" height="50" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" />][website]
+[<img align="left" alt="Django" width="30px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" />][website]
 
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 
