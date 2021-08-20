@@ -1,4 +1,4 @@
-## Hi there, I'm [Ananthakrishnan][website] 👋
+## Hi there, I'm [Ananthakrishnan][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-ananthan.herokuapp.com)](https://portfolio-ananthan.herokuapp.com)
 
@@ -57,6 +57,7 @@
 
 [<img align="left" alt="pandas"  src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />][website]
 
+<br/><br/><br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthan-123&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
