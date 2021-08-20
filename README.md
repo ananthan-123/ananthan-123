@@ -58,6 +58,8 @@
 [<img align="left" alt="pandas"  src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />][website]
 
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthan-123&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 [website]: https://portfolio-ananthan.herokuapp.com
 [linkedin]: https://www.linkedin.com/in/ananthakrishnan-a-s-2a69a3190/
 [hackerrank]: https://www.hackerrank.com/ananthan123
