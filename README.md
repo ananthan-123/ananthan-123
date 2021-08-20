@@ -42,7 +42,7 @@
 
 [<img align="left" alt="JQuery"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />][website]
 
-<br/>
+
 
 [<img align="left" alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />][website]
 
