@@ -33,7 +33,6 @@
 
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 
-<br/>
 
 [<img align="left" alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][website]
 
@@ -43,6 +42,7 @@
 
 [<img align="left" alt="JQuery"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />][website]
 
+<br/>
 
 [<img align="left" alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />][website]
 
