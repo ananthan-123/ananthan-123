@@ -2,11 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-ananthan.herokuapp.com)](https://portfolio-ananthan.herokuapp.com)
 
-### I'm doing undergraduation in computer science !!
-
-- 🌱 I’m currently learning deep learning
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen music
+### 
 
 ### Connect with me:
 
